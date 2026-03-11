@@ -1,22 +1,22 @@
 "DESCRIPTION","DURATION IN MS","NAME","PARENT SUITE","START TIME","STATUS","STOP TIME","SUB SUITE","SUITE","TEST CLASS","TEST METHOD"
 "Como QA
-  Quero validar a navbar no Storybook
-  Para garantir navegação desktop e mobile com comportamento consistente","2","Validar menu hambúrguer no mobile","","2026-03-11","skipped","2026-03-11","","","",""
-"Como QA
-  Quero validar o breadcrumb da tela
-  Para garantir navegação, responsividade e SEO","8","Validar estrutura hierárquica e SEO do breadcrumb","","2026-03-11","skipped","2026-03-11","","","",""
-"Como QA
   Quero validar a origem do preenchimento automático da UF
-  Para garantir fallback conforme regra de negócio","2","Preencher UF via geolocation","","2026-03-11","skipped","2026-03-11","","","",""
-"Como QA
-  Quero validar a origem do preenchimento automático da UF
-  Para garantir fallback conforme regra de negócio","2","Preencher UF via IP quando geolocalização falhar","","2026-03-11","skipped","2026-03-11","","","",""
+  Para garantir fallback conforme regra de negócio","3","Preencher UF via IP quando geolocalização falhar","","2026-03-11","skipped","2026-03-11","","","",""
 "Como QA
   Quero validar a navbar no Storybook
-  Para garantir navegação desktop e mobile com comportamento consistente","3","Validar navbar sticky com logo, links, dropdowns e CTA no desktop","","2026-03-11","skipped","2026-03-11","","","",""
+  Para garantir navegação desktop e mobile com comportamento consistente","3","Validar menu hambúrguer no mobile","","2026-03-11","skipped","2026-03-11","","","",""
+"Como QA
+  Quero validar a navbar no Storybook
+  Para garantir navegação desktop e mobile com comportamento consistente","4","Validar navbar sticky com logo, links, dropdowns e CTA no desktop","","2026-03-11","skipped","2026-03-11","","","",""
+"Como QA
+  Quero validar a origem do preenchimento automático da UF
+  Para garantir fallback conforme regra de negócio","3","Preencher UF via geolocation","","2026-03-11","skipped","2026-03-11","","","",""
 "Como QA
   Quero validar a origem do preenchimento automático da UF
   Para garantir fallback conforme regra de negócio","2","Preencher UF com SP quando geolocalização e IP falharem","","2026-03-11","skipped","2026-03-11","","","",""
 "Como QA
   Quero validar o breadcrumb da tela
-  Para garantir navegação, responsividade e SEO","2","Validar comportamento do nome longo da versão no mobile","","2026-03-11","skipped","2026-03-11","","","",""
+  Para garantir navegação, responsividade e SEO","3","Validar comportamento do nome longo da versão no mobile","","2026-03-11","skipped","2026-03-11","","","",""
+"Como QA
+  Quero validar o breadcrumb da tela
+  Para garantir navegação, responsividade e SEO","11","Validar estrutura hierárquica e SEO do breadcrumb","","2026-03-11","skipped","2026-03-11","","","",""
