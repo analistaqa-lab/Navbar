@@ -1,0 +1,10 @@
+node_modules
+*/node_modules
+.env
+*/.env
+allure-results
+*/allure-results
+allure-report
+*/allure-report
+package-lock.json
+autoavaliar-design-system-d5ec8b9ecaa8
